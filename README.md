@@ -22,3 +22,6 @@ Launching
 - Open the "NDR 3D Voxel Designer.exe" file
 
 You may also download the compiled version to the Windows executable: https://disk.yandex.ru/d/0T9j1cQBRfkLuw
+
+https://user-images.githubusercontent.com/50108069/186383588-7e8240d8-124d-47e9-8be3-07d00684cf78.mp4
+
