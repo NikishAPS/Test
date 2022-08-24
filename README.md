@@ -2,6 +2,9 @@
 
 DU-Build-Planner is a three-dimensional voxel editor with advanced features.
 
+Features
+-------------
+
 - Creating and moving chunks
 - Setting the color of the voxels
 - Edit the form as you wish
