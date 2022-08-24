@@ -19,5 +19,6 @@ Launching
 - Choose File -> Build Settings
 - In the list of platforms, choose Windows, Mac, Linux and click Build
 - Set the path to create binary files
+- Open "NDR 3D Voxel Designer.exe" file
 
 You may also download the compiled version to the Windows executable: https://disk.yandex.ru/d/0T9j1cQBRfkLuw
