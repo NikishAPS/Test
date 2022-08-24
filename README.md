@@ -24,10 +24,5 @@ Launching
 You may also download the compiled version to the Windows executable: https://disk.yandex.ru/d/0T9j1cQBRfkLuw
 
 
-
-https://user-images.githubusercontent.com/50108069/186388272-0dc9b8d5-11b9-4e02-b9b3-c7374987a3a1.mp4
-
-
-
-https://user-images.githubusercontent.com/50108069/186388289-ca6be4b1-0297-41b0-aac1-dbcb546c07f6.mp4
-
+![NDR-3D-Voxel-Designer-Demo](https://user-images.githubusercontent.com/50108069/186388680-e4fe8b0b-0163-4473-b805-9a5ea4184d9b.gif)
+![NDR-3D-Voxel-Designer-Mirror-Demo](https://user-images.githubusercontent.com/50108069/186388695-153bc9de-bef9-4833-aad8-7c0ffd08a7dc.gif)
