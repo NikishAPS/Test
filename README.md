@@ -10,4 +10,10 @@ Features
 - Edit the form as you wish
 - Upload three-dimensional models in the format .obj
 
-Download executable file for Windows: https://disk.yandex.ru/d/0T9j1cQBRfkLuw
+Launching
+-------------
+- Download the sources from this repository
+- Open the project folder in Unity (version 2019.3 and later)
+
+
+You may also download the compiled version to the Windows executable: https://disk.yandex.ru/d/0T9j1cQBRfkLuw
