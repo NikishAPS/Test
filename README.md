@@ -23,5 +23,11 @@ Launching
 
 You may also download the compiled version to the Windows executable: https://disk.yandex.ru/d/0T9j1cQBRfkLuw
 
-https://user-images.githubusercontent.com/50108069/186383588-7e8240d8-124d-47e9-8be3-07d00684cf78.mp4
+
+
+https://user-images.githubusercontent.com/50108069/186388272-0dc9b8d5-11b9-4e02-b9b3-c7374987a3a1.mp4
+
+
+
+https://user-images.githubusercontent.com/50108069/186388289-ca6be4b1-0297-41b0-aac1-dbcb546c07f6.mp4
 
